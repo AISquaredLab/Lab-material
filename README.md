@@ -1,2 +1,3 @@
 # Lab-material
-Collection of useful reading materials.
+Just a collection of useful reading materials.
+Share the appreciated website links, journals and books here to pass them on and activate discussions.
